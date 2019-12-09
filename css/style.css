@@ -154,6 +154,10 @@ p {
   color: #fff;
 }
 
+.sec2 h2, p {
+  text-align: center;
+}
+
 .contact {
   position: relative;
   padding: 100px 0;
