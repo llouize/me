@@ -61,6 +61,7 @@ p {
   background: url(../images/banner.jpg);
   background-size: cover;
   margin-bottom: 0;
+  background-position: center;
 }
 
 .banner:before,
@@ -165,6 +166,7 @@ p {
   background: url(../images/contactBg.jpg);
   background-size: cover;
   min-height: 100vh;
+  background-position: center;
 }
 
 .contact h4 {
